@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Coroutines</string>
+    <string name="title_activity_kotlin_async">KotlinAsync</string>
+    <string name="load">Load</string>
 </resources>
